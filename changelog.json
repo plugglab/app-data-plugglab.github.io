@@ -1,0 +1,55 @@
+{
+  "entries": [
+    {
+      "date": "2026-07-09",
+      "title_en": "LuckyEngine v1.0.0 released",
+      "body_en": "The full Lucky Block system shipped — luck engine, 14 reward types, a complete in-game GUI, configurable crafting, en_US + pl_PL localisation, and full PlaceholderAPI integration.",
+      "title_pl": "LuckyEngine v1.0.0 wydany",
+      "body_pl": "Wydano pełny system Lucky Block — silnik szczęścia, 14 typów nagród, kompletne GUI w grze, konfigurowalne craftowanie, lokalizację en_US i pl_PL oraz pełną integrację z PlaceholderAPI.",
+      "link": "/luckyengine/docs/",
+      "link_label_en": "Read the docs",
+      "link_label_pl": "Przeczytaj dokumentację",
+      "is_live": true
+    },
+    {
+      "date": "2026-07-05",
+      "title_en": "LuckyEngine announced",
+      "body_en": "A Lucky Blocks plugin targeting Minecraft 1.21.x entered development, aiming for a full luck system and in-game reward editor.",
+      "title_pl": "Ogłoszono LuckyEngine",
+      "body_pl": "Rozpoczęto prace nad pluginem Lucky Blocks dla Minecrafta 1.21.x, celującym w pełny system szczęścia i edytor nagród w grze.",
+      "is_live": false
+    },
+    {
+      "date": "2026-06-21",
+      "title_en": "Casino Core 3.0",
+      "body_en": "Reworked reward tokens, Vault economy sync, and a more stable roulette payout loop.",
+      "title_pl": "Casino Core 3.0",
+      "body_pl": "Przebudowano tokeny nagród, synchronizację ekonomii z Vault oraz bardziej stabilną pętlę wypłat ruletki.",
+      "is_live": false
+    },
+    {
+      "date": "2026-06-16",
+      "title_en": "PulseEvents 3.0",
+      "body_en": "Custom event actions expanded, config validation tightened, runtime crashes fixed.",
+      "title_pl": "PulseEvents 3.0",
+      "body_pl": "Rozszerzono niestandardowe akcje eventów, zaostrzono walidację konfiguracji i naprawiono błędy w czasie działania.",
+      "is_live": false
+    },
+    {
+      "date": "2026-05-24",
+      "title_en": "SafeTrade 2.0",
+      "body_en": "Rebuilt confirmation flow and inventory validation to close remaining scam vectors.",
+      "title_pl": "SafeTrade 2.0",
+      "body_pl": "Przebudowano proces potwierdzania i walidację ekwipunku, aby zamknąć pozostałe luki umożliwiające oszustwa.",
+      "is_live": false
+    },
+    {
+      "date": "2026-05-07",
+      "title_en": "Casino Core Demo published",
+      "body_en": "A stripped-down demo build made available for server owners to trial before adopting the full plugin.",
+      "title_pl": "Opublikowano demo Casino Core",
+      "body_pl": "Udostępniono okrojoną wersję demo, aby właściciele serwerów mogli ją przetestować przed wdrożeniem pełnego pluginu.",
+      "is_live": false
+    }
+  ]
+}

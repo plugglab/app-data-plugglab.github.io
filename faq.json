@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "question_en": "Are these plugins actually free?",
+      "answer_en": "Yes — every released plugin and pack on this site is free, with no premium tier or paywalled features. Updates are free too. Support on Ko-fi is optional and only funds continued development.",
+      "question_pl": "Czy te pluginy są naprawdę darmowe?",
+      "answer_pl": "Tak — każdy wydany plugin i paczka na tej stronie są darmowe, bez wersji premium ani funkcji zablokowanych płatnością. Aktualizacje też są darmowe. Wsparcie na Ko-fi jest opcjonalne i finansuje wyłącznie dalszy rozwój."
+    },
+    {
+      "question_en": "Which Minecraft versions are supported?",
+      "answer_en": "Most plugins target current Paper/Spigot releases (1.20–1.21). Each project page lists its exact supported version range under \"Requirements & Links\" — check there before installing on an older or newer server.",
+      "question_pl": "Które wersje Minecrafta są wspierane?",
+      "answer_pl": "Większość pluginów celuje w aktualne wersje Paper/Spigot (1.20–1.21). Każda strona projektu podaje dokładny zakres wspieranych wersji w sekcji „Wymagania i linki” — sprawdź to przed instalacją na starszym lub nowszym serwerze."
+    },
+    {
+      "question_en": "How do I install a plugin?",
+      "answer_en": "Download the .jar from the project's Modrinth page (linked on each project page), drop it into your server's /plugins folder, and restart. Each project page's \"Requirements & Links\" section lists any dependencies it needs.",
+      "question_pl": "Jak zainstalować plugin?",
+      "answer_pl": "Pobierz plik .jar ze strony projektu na Modrinth (link na każdej stronie projektu), wrzuć go do folderu /plugins na serwerze i zrestartuj serwer. Sekcja „Wymagania i linki” na stronie każdego projektu podaje wszystkie wymagane zależności."
+    },
+    {
+      "question_en": "Can I request a feature or report a bug?",
+      "answer_en": "Yes — Discord is the fastest way to reach the developer directly, or use the contact form for a more structured request. Bug reports with server logs and steps to reproduce get fixed fastest.",
+      "question_pl": "Czy mogę zgłosić propozycję funkcji lub błąd?",
+      "answer_pl": "Tak — Discord to najszybszy sposób, by dotrzeć bezpośrednio do dewelopera, albo skorzystaj z formularza kontaktowego dla bardziej uporządkowanego zgłoszenia. Zgłoszenia błędów z logami serwera i krokami do odtworzenia problemu naprawiane są najszybciej."
+    },
+    {
+      "question_en": "Do you take on paid custom development?",
+      "answer_en": "Occasionally, depending on availability. Reach out on the contact page with what you need — custom plugin work is handled separately from the free public releases listed here.",
+      "question_pl": "Czy podejmujesz się płatnych, niestandardowych zleceń?",
+      "answer_pl": "Czasami, zależnie od dostępności czasowej. Napisz na stronie kontaktowej, czego potrzebujesz — niestandardowa praca nad pluginami jest prowadzona osobno od darmowych publicznych wydań wymienionych tutaj."
+    },
+    {
+      "question_en": "Why is a project marked \"In Development\"?",
+      "answer_en": "It means the plugin is being actively built and tested but isn't ready for public release yet. Check the Release Queue or Changelog pages for live status, or join Discord for early previews.",
+      "question_pl": "Dlaczego projekt jest oznaczony jako „W trakcie tworzenia”?",
+      "answer_pl": "Oznacza to, że plugin jest aktywnie budowany i testowany, ale nie jest jeszcze gotowy do publicznego wydania. Sprawdź stronę Kolejki wydań lub Zmian, by zobaczyć aktualny status, albo dołącz do Discorda po wczesne podglądy."
+    }
+  ]
+}
