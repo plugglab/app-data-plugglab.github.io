@@ -2,8 +2,8 @@
   "meta": {
     "version": 1,
     "last_updated": "2026-06-27",
-    "announcement": "🎲 LuckyEngine v1.0.0 is live — Lucky Block plugin with a full luck system, in-game GUI, and 40+ rewards!",
-    "announcement_pl": "🎲 LuckyEngine v1.0.0 jest już dostępny — plugin Lucky Block z pełnym systemem szczęścia, GUI w grze i ponad 40 nagrodami!"
+    "announcement": "Hello Everyone",
+    "announcement_pl": "Witam wszystkich"
   },
   "plans": [
     {
@@ -31,6 +31,7 @@
       "free": true,
       "status": "live",
       "icon_padded": false,
+      "version": "3.2",
       "tags": [
         "events",
         "automation"
@@ -49,6 +50,7 @@
       "free": true,
       "status": "live",
       "icon_padded": true,
+      "version": "4.1",
       "tags": [
         "economy",
         "gameplay"
@@ -67,6 +69,7 @@
       "free": true,
       "status": "live",
       "icon_padded": true,
+      "version": "4.0",
       "tags": [
         "utility",
         "anti-scam"
@@ -85,6 +88,7 @@
       "free": true,
       "status": "live",
       "icon_padded": false,
+      "version": "0.3",
       "tags": [
         "pvp",
         "texture"
@@ -103,6 +107,7 @@
       "free": true,
       "status": "live",
       "icon_padded": false,
+      "version": "0.2",
       "tags": [
         "pvp",
         "1.8",
@@ -122,7 +127,7 @@
       "free": true,
       "status": "live",
       "icon_padded": true,
-      "version": "1.0.0",
+      "version": "2.1",
       "tags": [
         "luck",
         "rewards",
@@ -172,17 +177,26 @@
       "date": "2026-06-27",
       "tag": "ANNOUNCEMENT",
       "link": "https://plugglab.pl/"
+    },
+    {
+      "id": "post-5",
+      "title": "Summary of updates",
+      "summary": "Just a summary of all updates for everything",
+      "content": "most content has been updated and im working on pulseevents for 26.x",
+      "date": "2026-08-30",
+      "tag": "ANNOUNCEMENT",
+      "link": "null"
     }
   ],
   "events": [
     {
-      "id": "event-None",
-      "title": "Null",
-      "description": "Null",
+      "id": "EVENT-1",
+      "title": "Event on 100 people on my discord",
+      "description": "Im gonna give a way a game on 100 people on my discord server",
       "date": "Null",
       "time": null,
-      "location": "Null",
-      "link": "Null"
+      "location": "Discord",
+      "link": "https://discord.gg/ZMje3neEmK"
     }
   ],
   "roadmap": [
