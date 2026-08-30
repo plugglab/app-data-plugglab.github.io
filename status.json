@@ -4,15 +4,15 @@
       "name": "PulseEvents",
       "status": "operational",
       "download": "https://modrinth.com/plugin/pulseevents",
-      "version": "3.0",
-      "lastUpdate": "2026-06-16"
+      "version": "3.2",
+      "lastUpdate": "2026-08-30"
     },
     {
       "name": "CoreCasino",
       "status": "operational",
       "download": "https://modrinth.com/plugin/casinocore",
-      "version": "3.0",
-      "lastUpdate": "2026-06-21"
+      "version": "4.1",
+      "lastUpdate": "2026-08-30"
     },
     {
       "name": "CasinoCoreDemo",
@@ -25,15 +25,15 @@
       "name": "SafeTrade",
       "status": "operational",
       "download": "https://modrinth.com/plugin/safetrade",
-      "version": "2.0",
-      "lastUpdate": "2026-05-24"
+      "version": "4.0",
+      "lastUpdate": "2026-08-30"
     },
     {
       "name": "LuckyEngine",
       "status": "operational",
       "download": "https://modrinth.com/plugin/luckyengine",
-      "version": "1.0.0",
-      "lastUpdate": "2026-07-09"
+      "version": "2.1",
+      "lastUpdate": "2026-08-30"
     }
   ]
 }
