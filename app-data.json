@@ -25,114 +25,115 @@
   ],
   "projects": [
     {
-      "id": "pulseevents",
-      "name": "PulseEvents",
-      "type": "plugin",
-      "description": "Dynamic event system for Minecraft servers. Automate server-wide events with ease.",
-      "status": "live",
-      "free": true,
+      "status_text_pl": "Narzędzia automatyzacji eventów",
       "icon_url": "https://plugglab.pl/assets/images/pulseevents_n.png",
+      "name": "PulseEvents",
+      "free": true,
+      "status": "live",
+      "icon_padded": false,
       "tags": [
         "events",
         "automation"
       ],
-      "link": "https://plugglab.pl/pulseevents/",
       "status_text": "Event automation tools",
-      "status_text_pl": "Narzędzia automatyzacji eventów",
-      "description_pl": "Dynamiczny system eventów dla serwerów Minecraft. Automatyzuj wydarzenia bez wysiłku.",
-      "icon_padded": false
+      "type": "plugin",
+      "link": "https://plugglab.pl/pulseevents/",
+      "id": "pulseevents",
+      "description": "Dynamic event system for Minecraft servers. Automate server-wide events with ease.",
+      "description_pl": "Dynamiczny system eventów dla serwerów Minecraft. Automatyzuj wydarzenia bez wysiłku."
     },
     {
-      "id": "casinocore",
+      "status_text_pl": "Systemy rozgrywki ekonomicznej",
+      "icon_url": "https://plugglab.pl/assets/images/icons/icon-casinocore.png",
       "name": "Casino Core",
-      "type": "plugin",
-      "description": "Modular casino engine with reward systems and slot mechanics.",
-      "status": "live",
       "free": true,
+      "status": "live",
+      "icon_padded": true,
       "tags": [
         "economy",
         "gameplay"
       ],
-      "link": "https://plugglab.pl/casinocore/",
       "status_text": "Economy gameplay systems",
-      "status_text_pl": "Systemy rozgrywki ekonomicznej",
-      "description_pl": "Modularny silnik kasyna z systemami nagród i mechanikami slotów.",
-      "icon_padded": true,
-      "icon_url": "https://plugglab.pl/assets/images/icons/icon-casinocore.png"
+      "type": "plugin",
+      "link": "https://plugglab.pl/casinocore/",
+      "id": "casinocore",
+      "description": "Modular casino engine with reward systems and slot mechanics.",
+      "description_pl": "Modularny silnik kasyna z systemami nagród i mechanikami slotów."
     },
     {
-      "id": "safetrade",
+      "status_text_pl": "Narzędzia i ochrona przed oszustwami",
+      "icon_url": "https://plugglab.pl/assets/images/wip.png",
       "name": "SafeTrade",
-      "type": "plugin",
-      "description": "Protected player-to-player trading with confirmation flow, anti-scam checks, and clean inventory handoff.",
-      "status": "live",
       "free": true,
+      "status": "live",
+      "icon_padded": true,
       "tags": [
         "utility",
         "anti-scam"
       ],
-      "link": "https://plugglab.pl/safetrade/",
       "status_text": "Utility and anti-scam flow",
-      "status_text_pl": "Narzędzia i ochrona przed oszustwami",
-      "description_pl": "Bezpieczny handel między graczami z potwierdzeniem transakcji, ochroną przed oszustwami i czystym przekazaniem ekwipunku.",
-      "icon_padded": true
+      "type": "plugin",
+      "link": "https://plugglab.pl/safetrade/",
+      "id": "safetrade",
+      "description": "Protected player-to-player trading with confirmation flow, anti-scam checks, and clean inventory handoff.",
+      "description_pl": "Bezpieczny handel między graczami z potwierdzeniem transakcji, ochroną przed oszustwami i czystym przekazaniem ekwipunku."
     },
     {
-      "id": "novapixel",
-      "name": "NovaPixel",
-      "type": "pack",
-      "description": "Competitive PvPasdasd texture pack with a modern style. Designed for performance and clarity.",
-      "status": "live",
-      "free": true,
+      "status_text_pl": "Konfiguracja wizualna PvP",
       "icon_url": "https://plugglab.pl/assets/images/novapixel_n.png",
+      "name": "NovaPixel",
+      "free": true,
+      "status": "live",
+      "icon_padded": false,
       "tags": [
         "pvp",
         "texture"
       ],
-      "link": "https://plugglab.pl/novapixel/",
       "status_text": "PvP visual setup",
-      "status_text_pl": "Konfiguracja wizualna PvP",
-      "description_pl": "Konkurencyjna paczka tekstur PvP w nowoczesnym stylu. Zaprojektowana pod wydajność i czytelność.",
-      "icon_padded": false
+      "type": "pack",
+      "link": "https://plugglab.pl/novapixel/",
+      "id": "novapixel",
+      "description": "Competitive PvP texture pack with a modern style. Designed for performance and clarity.",
+      "description_pl": "Konkurencyjna paczka tekstur PvP w nowoczesnym stylu. Zaprojektowana pod wydajność i czytelność."
     },
     {
-      "id": "pvpflow",
-      "name": "PvPFlow",
-      "type": "pack",
-      "description": "1.8 PvP focused visual enhancement pack for classic competitive play.",
-      "status": "live",
-      "free": true,
+      "status_text_pl": "Klasyczne wizualia PvP",
       "icon_url": "https://plugglab.pl/assets/images/pvpflow_n.png",
+      "name": "PvPFlow",
+      "free": true,
+      "status": "live",
+      "icon_padded": false,
       "tags": [
         "pvp",
         "1.8",
         "texture"
       ],
-      "link": "https://plugglab.pl/pvpflow/",
       "status_text": "Classic PvP visuals",
-      "status_text_pl": "Klasyczne wizualia PvP",
-      "description_pl": "Paczka wizualna skupiona na PvP w wersji 1.8, dla klasycznej konkurencyjnej rozgrywki.",
-      "icon_padded": false
+      "type": "pack",
+      "link": "https://plugglab.pl/pvpflow/",
+      "id": "pvpflow",
+      "description": "1.8 PvP focused visual enhancement pack for classic competitive play.",
+      "description_pl": "Paczka wizualna skupiona na PvP w wersji 1.8, dla klasycznej konkurencyjnej rozgrywki."
     },
     {
-      "id": "luckyengine",
-      "name": "LuckyEngine",
-      "type": "plugin",
-      "description": "Feature-rich Lucky Block plugin with a luck system, full in-game GUI, and 40+ configurable rewards across 14 reward types.",
-      "status": "live",
-      "free": true,
-      "version": "1.0.0",
+      "status_text_pl": "System szczęścia i GUI nagród",
       "icon_url": "https://plugglab.pl/assets/images/icons/icon-luckyengine.png",
+      "name": "LuckyEngine",
+      "free": true,
+      "status": "live",
+      "icon_padded": true,
+      "version": "1.0.0",
       "tags": [
         "luck",
         "rewards",
         "gui"
       ],
-      "link": "https://plugglab.pl/luckyengine/",
       "status_text": "Luck system & reward GUI",
-      "status_text_pl": "System szczęścia i GUI nagród",
-      "description_pl": "Rozbudowany plugin Lucky Block z systemem szczęścia, pełnym interfejsem GUI w grze i ponad 40 konfigurowalnymi nagrodami w 14 typach.",
-      "icon_padded": true
+      "type": "plugin",
+      "link": "https://plugglab.pl/luckyengine/",
+      "id": "luckyengine",
+      "description": "Feature-rich Lucky Block plugin with a luck system, full in-game GUI, and 40+ configurable rewards across 14 reward types.",
+      "description_pl": "Rozbudowany plugin Lucky Block z systemem szczęścia, pełnym interfejsem GUI w grze i ponad 40 konfigurowalnymi nagrodami w 14 typach."
     }
   ],
   "posts": [
