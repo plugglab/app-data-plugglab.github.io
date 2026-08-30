@@ -143,22 +143,13 @@
   ],
   "posts": [
     {
-      "id": "post-2",
-      "title": "The site got a full rebuild",
-      "summary": "PluggLAB's website was rebuilt from the ground up — new design system, working translations, a live changelog, and an admin panel for fast updates.",
-      "content": "The whole site moved off a static, hand-edited layout and onto a proper foundation: a shared void/gothic design system, a working EN/PL language switcher, a live status board pulling from the same data the Android app uses, and a Decap CMS admin panel so project descriptions, the FAQ, and the changelog can all be updated without touching code. The domain also moved to plugglab.pl.",
-      "date": "2026-07-12",
-      "tag": "DEVLOG",
-      "link": "https://plugglab.pl/"
-    },
-    {
-      "id": "post-3",
-      "title": "LuckyEngine v1.0.0 released",
-      "summary": "A full Lucky Block plugin shipped — luck-weighted rewards, 14 reward types, an in-game GUI editor, and full PlaceholderAPI support.",
-      "content": "LuckyEngine's first full release brings a complete luck system (break blocks, build luck, bias your rewards), 14 configurable reward types from simple item drops to mob swarms and structures, an in-game GUI for editing rewards without touching config files, English and Polish localisation, and a full PlaceholderAPI integration for scoreboards and leaderboards. Full docs are on the LuckyEngine project page.",
-      "date": "2026-07-09",
-      "tag": "RELEASE",
-      "link": "https://plugglab.pl/luckyengine/"
+      "id": "post-5",
+      "title": "Summary of updates",
+      "summary": "Just a summary of all updates for everything",
+      "content": "most content has been updated and im working on pulseevents for 26.x",
+      "date": "2026-08-30",
+      "tag": "ANNOUNCEMENT",
+      "link": "null"
     },
     {
       "id": "post-4",
@@ -170,6 +161,24 @@
       "link": "https://plugglab.pl/tools/config-generator/"
     },
     {
+      "id": "post-3",
+      "title": "LuckyEngine v1.0.0 released",
+      "summary": "A full Lucky Block plugin shipped — luck-weighted rewards, 14 reward types, an in-game GUI editor, and full PlaceholderAPI support.",
+      "content": "LuckyEngine's first full release brings a complete luck system (break blocks, build luck, bias your rewards), 14 configurable reward types from simple item drops to mob swarms and structures, an in-game GUI for editing rewards without touching config files, English and Polish localisation, and a full PlaceholderAPI integration for scoreboards and leaderboards. Full docs are on the LuckyEngine project page.",
+      "date": "2026-07-09",
+      "tag": "RELEASE",
+      "link": "https://plugglab.pl/luckyengine/"
+    },
+    {
+      "id": "post-2",
+      "title": "The site got a full rebuild",
+      "summary": "PluggLAB's website was rebuilt from the ground up — new design system, working translations, a live changelog, and an admin panel for fast updates.",
+      "content": "The whole site moved off a static, hand-edited layout and onto a proper foundation: a shared void/gothic design system, a working EN/PL language switcher, a live status board pulling from the same data the Android app uses, and a Decap CMS admin panel so project descriptions, the FAQ, and the changelog can all be updated without touching code. The domain also moved to plugglab.pl.",
+      "date": "2026-07-12",
+      "tag": "DEVLOG",
+      "link": "https://plugglab.pl/"
+    },
+    {
       "id": "post-1",
       "title": "PluggLAB App is Live!",
       "summary": "The official PluggLAB Android app is now available. Get all plugin info, updates, and events in one place.",
@@ -177,15 +186,6 @@
       "date": "2026-06-27",
       "tag": "ANNOUNCEMENT",
       "link": "https://plugglab.pl/"
-    },
-    {
-      "id": "post-5",
-      "title": "Summary of updates",
-      "summary": "Just a summary of all updates for everything",
-      "content": "most content has been updated and im working on pulseevents for 26.x",
-      "date": "2026-08-30",
-      "tag": "ANNOUNCEMENT",
-      "link": "null"
     }
   ],
   "events": [
